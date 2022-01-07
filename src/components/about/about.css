@@ -14,9 +14,9 @@
 }
 .a-card.bg {
   position: absolute;
-  top: 50px;
-  left: 50px;
-  background-color: #333;
+  top: 60px;
+  left: 60px;
+  background-color: rgb(69, 56, 187);
 }
 
 .a-card {
@@ -42,17 +42,19 @@
 }
 .a-title {
   font-weight: 700;
+  color: floralwhite;
 }
 
 .a-sub {
   margin: 20px 0px;
   font-size: 20px;
+  color: tomato;
+  font-weight: 500;
 }
 
 .a-desc {
   font-weight: 300;
-  text-align: justify;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 @media screen and (max-width: 480px) {
