@@ -26,6 +26,15 @@ const About = () => {
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
         </p>
+        <div className="icon-container">
+          <i class="fab fa-html5"></i>
+          <i class="fab fa-css3-alt"></i>
+          <i class="fab fa-bootstrap"></i>
+          <i class="fab fa-js"></i>
+          <i class="fab fa-node-js"></i>
+          <i class="fab fa-react"></i>
+          <i class="fas fa-database"></i>
+        </div>
       </div>
     </div>
   )

@@ -56,7 +56,14 @@
   font-weight: 300;
   font-size: 20px;
 }
-
+.icon-container {
+  padding: 20px 0;
+  font-size: 30px;
+}
+i {
+  color: tomato;
+  margin-right: 10px;
+}
 @media screen and (max-width: 480px) {
   .about {
     flex-direction: column;
