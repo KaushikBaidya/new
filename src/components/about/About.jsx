@@ -31,9 +31,10 @@ const About = () => {
           <i class="fab fa-css3-alt"></i>
           <i class="fab fa-bootstrap"></i>
           <i class="fab fa-js"></i>
-          <i class="fab fa-node-js"></i>
           <i class="fab fa-react"></i>
+          <i class="fab fa-node-js"></i>
           <i class="fas fa-database"></i>
+          <i class="fab fa-github"></i>
         </div>
       </div>
     </div>

@@ -2,6 +2,7 @@
   height: 100vh;
   display: flex;
   align-items: center;
+  background-color: #212121;
 }
 /* about left */
 .about-left {
@@ -16,7 +17,7 @@
   position: absolute;
   top: 60px;
   left: 60px;
-  background-color: rgb(69, 56, 187);
+  background-color: #494949;
 }
 
 .a-card {

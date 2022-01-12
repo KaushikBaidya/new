@@ -6,11 +6,11 @@ export const Intro = () => {
     <div className="container">
       <Topbar />
       <div className="content">
-        <div className="intro">Hi, I'm Kaushik Baidya</div>
+        <div className="intro">Hello! I'm Kaushik Baidya</div>
         <div className="title">
           I am a{' '}
           <span style={{ color: 'tomato', fontWeight: '500' }}>
-            Web Developer
+            WEB DEVELOPER
           </span>
         </div>
         <div className="desc">
